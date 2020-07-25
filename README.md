@@ -6,31 +6,31 @@ the it prints out every item with an in-order traversal printing the words alpha
 Sample Input:
 
 
-  This is a
+     This is a
 
 
-  Text a sample text
+     Text a sample text
 
 
-  document
+     document
 
 
 Sample Output:
 
 
-  a 2 1,2
+    a 2 1,2
 
 
-  document 1 3
+    document 1 3
 
 
-  is 1 1
+    is 1 1
 
 
-  sample 1 2
+    sample 1 2
 
 
-  text 2 2
+    text 2 2
 
 
-  this 1 1
+    this 1 1
