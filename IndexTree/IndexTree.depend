@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1595410188 source:e:\programing shit\c shit\indextree\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+
